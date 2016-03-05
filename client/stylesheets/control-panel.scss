@@ -1,0 +1,18 @@
+@import "variables";
+
+body {
+	background-color:$bg-color-dark;
+	color:$text-color;
+}
+
+
+.control-panel-container {
+
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:140px;
+	background-color:#fff;
+	border:1px solid white;
+	height:500px;
+	width:400px;
+}
